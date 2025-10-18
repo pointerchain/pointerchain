@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hello there 👋, I'm Pointer Chain.
 
-<!--
-**pointerchain/pointerchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring systems programmer on a journey to master C++ and Linux.
+This profile serves as a public log of my daily work and projects.
 
-Here are some ideas to get you started:
+**Currently Focused On**
+* 📖 Working through *A Tour of C++* by Bjarne Stroustrup.
+* 🖥️ Building a keyboard-driven development environment with Fedora Sway.
+* ✨ Mastering modern C++ best practices and the STL one day at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ **[Check out my daily progress in my `done.md` log!](https://github.com/pointerchain/my-cpp-journey/blob/main/done.md)**
+
+### My Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+</p>
