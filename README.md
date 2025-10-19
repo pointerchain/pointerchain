@@ -8,7 +8,7 @@ This profile serves as a public log of my daily work and projects.
 * 🖥️ Building a keyboard-driven development environment with Fedora Sway.
 * ✨ Mastering modern C++ best practices and the STL one day at a time.
 
-➡️ **[Check out my daily progress in my `done.md` log!](https://github.com/pointerchain/my-cpp-journey/blob/main/done.md)**
+➡️ **[Check out my daily progress in my `done.md` log!](https://github.com/pointerchain/my_cpp_journey/blob/main/done.md)**
 
 ---
 
