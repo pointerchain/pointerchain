@@ -5,7 +5,7 @@ This profile serves as a public log of my daily work and projects.
 
 **Currently Focused On**
 * 📖 Working through *A Tour of C++* by Bjarne Stroustrup.
-* 🖥️ Building a keyboard-driven development environment with Fedora Sway.
+* 🖥️ Building a keyboard-driven development environment with Fedora i3.
 * ✨ Mastering modern C++ best practices and the STL one day at a time.
 
 ➡️ **[Check out my daily progress in my `done.md` log!](https://github.com/pointerchain/my_cpp_journey/blob/main/done.md)**
